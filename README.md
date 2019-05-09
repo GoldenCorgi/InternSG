@@ -28,7 +28,7 @@ I apologise greatly for the minimal documentation. Mostly self-documenting since
 ## FAQ
 
 - **Can I use this for myself?**
-    - If you seriously need a csv of underpaying ($600, seriously, NS pays higher) jobs in Singapore, I'm more than willing to help. This is so sad alexa buy me a BTO.
+    - If you seriously need a csv of underpaying ($600, seriously, NS pays higher) jobs in Singapore, I'm more than willing to help.
 - **There's alot of "fail" printing out in the python file. Is this normal?**
     - Short Answer: Yes, ignore it. The fail is when beautifulsoup is parsing through the div children and extracting the text out. Sometimes it fails because we can't have good things, like **decent pay** in internships.
 - **Can I use this on other websites?**
